@@ -1,22 +1,38 @@
-# Lalit-Biranwar-Poetry
-Original Hindi Poems and Literary Works by Lalit Biranwar (Lakhnadauni) ललित लखनादौनी
+# ✍️ Lalit Biranwar ललित लखनादौनी
 
-Welcome to my official collection of original Hindi poems.
+## Original Hindi Poems and Literary Works
 
-### About the Author
-
-**Lalit Biranwar** 
-Lakhnadon, Madhya Pradesh, India
-
-This repository contains my original Hindi poems and literary writings.
-
-### Poems
-
-- 🌿 तृष्णा की आग *(Published)*
-- More poems coming soon...
+Welcome to my official collection of original Hindi poems and literary writings.
 
 ---
 
-© Lalit Biranwar
+## 👤 About the Author
+
+**Lalit Biranwar**  ललित लखनादौनी
+📍 Lakhnadon, Seoni, Madhya Pradesh, India
+
+I write original Hindi poetry inspired by life, human emotions, philosophy, nature, and social values.
+
+---
+
+## 📚 Published Poems
+
+- 🌿 **तृष्णा की आग** *(Original Poem)*
+
+More original poems will be added soon.
+
+---
+
+## 📖 Copyright
+
+**© Lalit Biranwar**
 
 All Rights Reserved.
+
+The poems published in this repository are original literary works of the author. They may not be copied, reproduced, translated, modified, or republished without prior written permission.
+
+---
+
+## 🔗 Official Repository
+
+https://github.com/lalitbiranwar/Lalit-Biranwar-Poetry
